@@ -1,8 +1,8 @@
 #--------------------------------------------------------------------------------
 # Values for this workshop - EDIT THIS SECTION.
 #--------------------------------------------------------------------------------
-workshop_repo   : "https://github.com/ucsdlib/gps-py2017"
-workshop_site   : "http://ucsdlib.github.io/gps-py2017"
+workshop_repo   : "https://github.com/ucsdlib/win2018-gps-python"
+workshop_site   : "https://ucsdlib.github.io/win2018-gps-python/"
 #--------------------------------------------------------------------------------
 # Standard Software Carpentry settings - should not need to be modified.
 #--------------------------------------------------------------------------------
@@ -25,8 +25,8 @@ lib_site        : "http://libraries.ucsd.edu"
 lib_rdcp        : "http://libraries.ucsd.edu/rdcp"
 lib_data_svcs   : "http://ucsd.libguides.com/data-services"
 gps_site        : "http://gps.ucsd.edu"
-lib_contact     : "timdennis@ucsd.edu"
-lib_appt        : "https://calendly.com/tim-dennis/"
+lib_contact     : "rotsuj@ucsd.edu"
+lib_appt        : ""
 
 #--------------------------------------------------------------------------------
 # Settings for Jekyll - should not need to be modified.
