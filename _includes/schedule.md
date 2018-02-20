@@ -4,5 +4,5 @@
 |                         |                      |                                |
 | Feb. 5   | Lecture                        | [Pandas](http://swcarpentry.github.io/python-novice-gapminder/08-data-frames/) & [Plotting](http://swcarpentry.github.io/python-novice-gapminder/09-plotting/), [Lists](http://swcarpentry.github.io/python-novice-gapminder/11-lists/), [Loops](http://swcarpentry.github.io/python-novice-gapminder/12-for-loops/), [Functions](http://swcarpentry.github.io/python-novice-gapminder/14-writing-functions/), Conditionals |
 |          | Quiz & Assignment 1             | Posted in TritonEd                 |
-| Feb. 12  | Lecture                        |    Review - List, Loops, Functions, [Conditionals](http://swcarpentry.github.io/python-novice-gapminder/17-conditionals/) - [Lecture notebook](https://github.com/ucsdlib/win2018-gps-python/blob/master/pyinfo/python-Information-resources.ipynb)                           |
+| Feb. 12  | Lecture                        |    Review - List, Loops, Functions, [Conditionals](http://swcarpentry.github.io/python-novice-gapminder/17-conditionals/) - [Lecture notebook](https://github.com/ucsdlib/win2018-gps-python/blob/master/pyinfo/2018-gps-python-week3.ipynb)                           |
 |          | Quiz & Assignment 2             | Posted in TritonEd                 |
